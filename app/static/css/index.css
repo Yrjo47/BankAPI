@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    min-height: 100vh;
+    font-family: "Creepster";
+    background-color: black;
+}
+
+h1 {
+    font-size: 12rem;
+}
+
+.home-logo-container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-logo {
+    color: red;
+}
